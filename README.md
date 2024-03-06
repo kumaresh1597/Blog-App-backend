@@ -4,7 +4,7 @@ and follows, providing full functionality for managing user accounts, blog posts
 
 - User Schema: Implemented a user schema to store user information such as username, email, and password securely.
 
-= Blog Schema: Created a blog schema to store blog posts with fields for title, content, and author, allowing users to create and publish their blog posts.
+- Blog Schema: Created a blog schema to store blog posts with fields for title, content, and author, allowing users to create and publish their blog posts.
 
 - Follow Schema: Implemented a follow schema to enable users to follow other users, fostering a social network aspect within the application.
 
